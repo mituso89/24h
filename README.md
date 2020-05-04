@@ -4,7 +4,6 @@
 
 ### Step 1
 
-Issue a selfsign SSL certificate: use [https://github.com/tbson/localca](https://github.com/tbson/localca) to create one.
 
 ### Step 2
 
